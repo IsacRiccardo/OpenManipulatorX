@@ -1,7 +1,5 @@
 ![Logo](https://github.com/ROBOTIS-GIT/emanual/raw/master/assets/images/platform/openmanipulator_x/OpenManipulator.png)
 
-# OpenManipulatorX
-
 Worked on during University, using OpenManipulatorX robotic arm.
 
 ## Content
